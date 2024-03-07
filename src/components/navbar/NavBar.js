@@ -4,10 +4,11 @@ import styles from "./navbar.module.css";
 const NavBar = () => {
   return (
     <div className={styles.container}>
-      <div>Logo</div>
+      <div className={styles.logo}>Logo</div>
       <Links />
     </div>
   );
 };
 
 export default NavBar;
+
