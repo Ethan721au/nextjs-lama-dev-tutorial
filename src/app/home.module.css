@@ -47,7 +47,3 @@
   background-color: var(--btn);
   color: var(--text);
 }
-
-.heroImg {
-  object-fit: contain;
-}
