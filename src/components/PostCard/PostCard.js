@@ -12,8 +12,14 @@ const PostCard = () => {
       </div>
       <div className={styles.bottom}>
         <h1 className={styles.title}>PostTitle</h1>
-        <p className={styles.description}>Desciption</p>
-        <Link href="/">Read Me</Link>
+        <p className={styles.desc}>
+          six mighty lunch if twenty waste cattle indicate cloud wind how eye
+          constantly discuss subject breath thrown former coming have knew nose
+          glass numberbFaYbArsfdgf
+        </p>
+        <Link href="/blog/post" className={styles.link}>
+          Read Me
+        </Link>
       </div>
     </div>
   );
