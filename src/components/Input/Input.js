@@ -18,7 +18,6 @@ export default function Input(
         onChange={onChange}
         onBlur={onBlur}
       />
-      <div>error</div>
     </InputContainer>
   );
 }
